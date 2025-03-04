@@ -35,7 +35,7 @@ A command line tool for building SoundFont 2 files with a workflow that resemble
 
 [➜ Go to repository](https://github.com/sevonj/titomachine)
 
-A project that explores emulation and inner workings of a computer. I built this mostly during the computer organization course at university.
+A project that explores emulation and inner workings of a computer. I built this during and after the computer organization course at university.
 
 <img src="https://github.com/user-attachments/assets/55fb1d1f-4595-44f1-98f0-c9d5140b398c" height="400" />
 
