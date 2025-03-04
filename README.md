@@ -68,7 +68,7 @@ An unfinished spline-based terrain generator for Godot game engine.
 
 [➜ Go to repository](https://github.com/sevonj/nmh-godot)
 
-A 3D model viewer & archive explorer for No More Heroes games. The games use custom asset formats that I reverse-engineered for this project.
+A 3D model viewer & archive explorer for No More Heroes games. The games use custom asset formats that I reverse-engineered myself.
 
 <img src="https://github.com/user-attachments/assets/63d274f3-109f-49a3-af27-d9b229ab766b" height="400" />
 
@@ -76,7 +76,7 @@ A 3D model viewer & archive explorer for No More Heroes games. The games use cus
 
 [➜ Go to repository](https://github.com/sevonj/sr2_chonker)
 
-A \[city] chunk file viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered for this project.
+A chunk file (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself.
 
 <img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" height="400" />
 
