@@ -17,9 +17,6 @@ Some projects I have contributer (code) to:
 
 Also, have a look at the things I've built myself:
 
-<details>
-<summary>list</summary>
-
 ## SfontPlayer
 
 [➜ Go to repository](https://github.com/sevonj/sfontplayer)
@@ -91,4 +88,3 @@ A Blender import addon for Metal Gear Solid 4 .mdn files. The game uses custom a
 
 <img src="https://github.com/user-attachments/assets/93d25e2d-ed2d-429b-884b-97242222d1fb" height="400" />
 
-</details>
