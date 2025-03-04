@@ -51,7 +51,7 @@ I ripped out the core from titomachine and replaced it with 8-bit nintendo hardw
 
 [➜ Go to repository](https://github.com/sevonj/visualtimer)
 
-I made an Android app with flutter. I was going to publish it on Play Store, but gave up when I started to feel I had spent more time navigating through Google's hoops for developer account and publishing than developing the app itself. 
+I made an Android app with flutter. I was going to publish it on Play Store, but gave up because navigating Google's hoops for developer accounts and publishing felt more time consuming than developing the app itself. 
 
 <img src="https://github.com/user-attachments/assets/87a4f14b-5b91-43d7-bef0-72c2edbe2c39" height="256" />
 
