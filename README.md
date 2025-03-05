@@ -68,7 +68,7 @@ An unfinished spline-based terrain generator for Godot game engine.
 
 [➜ Go to repository](https://github.com/sevonj/nmh-godot)
 
-A 3D model viewer & archive explorer for No More Heroes games. The games use custom asset formats that I reverse-engineered myself.
+A 3D model viewer & archive explorer for No More Heroes games. The games use custom asset formats that I reverse-engineered myself, except for the RSL archive format.
 
 <img src="https://github.com/user-attachments/assets/63d274f3-109f-49a3-af27-d9b229ab766b" height="400" />
 
@@ -76,7 +76,7 @@ A 3D model viewer & archive explorer for No More Heroes games. The games use cus
 
 [➜ Go to repository](https://github.com/sevonj/sr2_chonker)
 
-A chunk file (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself.
+A chunk file (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested after learning the game studio spent real developer time documenting their file formats for players mess with. Unfortunately no one there seemed to know or even want to touch the massive, complex rube goldberg machine that makes up the open world in this game.
 
 <img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" height="400" />
 
@@ -84,7 +84,7 @@ A chunk file (open world piece) viewer for Saints Row 2. The game uses custom as
 
 [➜ Go to repository](https://github.com/sevonj/mgs4mdn-blender-import)
 
-A Blender import addon for Metal Gear Solid 4 .mdn files. The game uses custom asset formats that someone else had reverse-engineered before.
+My first model tool. A Blender import addon for Metal Gear Solid 4 .mdn files. The game uses custom asset formats that someone else had reverse-engineered before me.
 
 <img src="https://github.com/user-attachments/assets/93d25e2d-ed2d-429b-884b-97242222d1fb" height="400" />
 
