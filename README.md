@@ -1,6 +1,6 @@
 # Contributions
 
-Some projects I have contributer (code) to:
+Some projects I have contributed (code) to:
 
 <details>
 <summary>list</summary>
