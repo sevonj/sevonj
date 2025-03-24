@@ -76,7 +76,7 @@ A 3D model viewer & archive explorer for No More Heroes games. The games use cus
 
 [➜ Go to repository](https://github.com/sevonj/sr2_chonker)
 
-A chunk file (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested after learning that the game studio documented some of their file formats for players mess with. Unfortunately no one there seemed to know or even want to touch the massive, complex rube goldberg machine that makes up the open world in this game.
+A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format as it's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. It was refactored into more sensible pieces in later games.
 
 <img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" height="400" />
 
