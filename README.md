@@ -49,13 +49,13 @@ I ripped out the core from titomachine and replaced it with 8-bit nintendo hardw
 
 <img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" />
 
-## Visual Timer
+## yykaakoo-lemmy
 
-[➜ Go to repository](https://github.com/sevonj/visualtimer)
+[➜ Go to repository](https://github.com/sevonj/yykaakoo-lemmy)
 
-I made an Android app with flutter. I was going to publish it on Play Store, but gave up because navigating Google's hoops for developer accounts and publishing felt more time consuming than developing the app itself. 
+![image](https://github.com/user-attachments/assets/d67dc9e2-8b3f-4737-965f-eb5d5756e888)
 
-<img src="https://github.com/user-attachments/assets/87a4f14b-5b91-43d7-bef0-72c2edbe2c39" height="256" />
+I decided to explore building a web app.
 
 ## WorldEdit
 
@@ -89,6 +89,14 @@ A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset f
 My first model tool. A Blender import addon for Metal Gear Solid 4 .mdn files. The game uses custom asset formats that someone else had reverse-engineered before me.
 
 <img src="https://github.com/user-attachments/assets/93d25e2d-ed2d-429b-884b-97242222d1fb" height="400" />
+
+## Visual Timer
+
+[➜ Go to repository](https://github.com/sevonj/visualtimer)
+
+I made an Android app with flutter. I was going to publish it on Play Store, but gave up because navigating Google's hoops for developer accounts and publishing felt more time consuming than developing the app itself. 
+
+<img src="https://github.com/user-attachments/assets/87a4f14b-5b91-43d7-bef0-72c2edbe2c39" height="256" />
 
 ## Misc
 
