@@ -55,7 +55,7 @@ I ripped out the core from titomachine and replaced it with 8-bit nintendo hardw
 
 ![image](https://github.com/user-attachments/assets/d67dc9e2-8b3f-4737-965f-eb5d5756e888)
 
-I decided to explore building a web app.
+I decided to explore building a web app. Social media client.
 
 ## WorldEdit
 
