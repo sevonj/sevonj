@@ -53,7 +53,7 @@ I ripped out the core from titomachine and replaced it with 8-bit nintendo hardw
 
 [➜ Go to repository](https://github.com/sevonj/yykaakoo-lemmy)
 
-![image](https://github.com/user-attachments/assets/d67dc9e2-8b3f-4737-965f-eb5d5756e888)
+<img src="https://github.com/user-attachments/assets/d67dc9e2-8b3f-4737-965f-eb5d5756e888" height="400" />
 
 I decided to explore building a web app. Social media client.
 
