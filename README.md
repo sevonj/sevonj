@@ -37,7 +37,7 @@ A command line tool for building SoundFont 2 files with a workflow that resemble
 
 [➜ Go to repository](https://github.com/sevonj/titomachine)
 
-A project that explores emulation and inner workings of a computer. I built this during and after the computer organization course at university.
+A project that explores emulation and inner workings of a computer. I built this during and after the computer organization course at university. This was my first Rust program and I didn't know how to write good code, so the codebase is pretty rotten.
 
 <img src="https://github.com/user-attachments/assets/55fb1d1f-4595-44f1-98f0-c9d5140b398c" height="400" />
 
@@ -45,7 +45,7 @@ A project that explores emulation and inner workings of a computer. I built this
 
 [➜ Go to repository](https://github.com/sevonj/nesmachine)
 
-I ripped out the core from titomachine and replaced it with 8-bit nintendo hardware. It passes a couple test roms I threw at it, but doesn't boot real games, which is probably because I didn't implement CPU interrupts.
+I ripped out the core from titomachine and replaced it with 8-bit nintendo hardware. Now being rewritten from scratch.
 
 <img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" />
 
