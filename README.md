@@ -78,7 +78,7 @@ A 3D model viewer & archive explorer for No More Heroes games. The games use cus
 
 [➜ Go to repository](https://github.com/sevonj/sr2_chonker)
 
-A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format as it's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. It was refactored into more sensible pieces in later games.
+A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format, as it's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. They got rid of the format in later games.
 
 <img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" height="400" />
 
@@ -89,4 +89,30 @@ A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset f
 My first model tool. A Blender import addon for Metal Gear Solid 4 .mdn files. The game uses custom asset formats that someone else had reverse-engineered before me.
 
 <img src="https://github.com/user-attachments/assets/93d25e2d-ed2d-429b-884b-97242222d1fb" height="400" />
+
+## Misc
+
+Just less important things that I may not have the source code for anymore. Screenshots without code aren't great proof of skill, but I wanted have show these at least somewhere.
+
+<details>
+<summary>show</summary>
+
+| ![moom_ai_demo](https://github.com/user-attachments/assets/186729da-aadf-4a9a-8857-9a430f336d2c) | ![unknown](https://github.com/user-attachments/assets/38a19996-d1f6-4f89-857f-d3a2d466d8d1) |
+| --- | --- |
+
+State machine AI system for two failed attempts at building a game.
+___
+
+https://github.com/user-attachments/assets/97b84145-440b-446f-bb0d-8186cdd1704a
+
+Weekend project: Sims AI ➜ https://github.com/sevonj/life
+
+___
+
+https://github.com/user-attachments/assets/fd19be87-8d7e-4d54-8281-6bdc93a785fe
+
+Streaming open world system. (Note: the world itself is not mine)
+
+
+</details>
 
