@@ -109,7 +109,7 @@ Just less important things that I may not have the source code for anymore. Scre
 | ![moom_ai_demo](https://github.com/user-attachments/assets/186729da-aadf-4a9a-8857-9a430f336d2c) | ![unknown](https://github.com/user-attachments/assets/38a19996-d1f6-4f89-857f-d3a2d466d8d1) |
 | --- | --- |
 
-State machine AI system for two failed attempts at building a game.
+State machine AI system for two unfinished attempts at building a game.
 ___
 
 https://github.com/user-attachments/assets/97b84145-440b-446f-bb0d-8186cdd1704a
