@@ -79,7 +79,7 @@ A 3D model viewer & archive explorer for No More Heroes games. The games use cus
 
 [➜ Go to repository](https://github.com/sevonj/sr2_chonker)
 
-A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format, as it's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. They got rid of the format in later games.
+A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format with the longest pole. It's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. They got rid of the format in subsequent games.
 
 <img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" height="400" />
 
@@ -99,7 +99,7 @@ I made an Android app with flutter. I was going to publish it on Play Store, but
 
 <img src="https://github.com/user-attachments/assets/87a4f14b-5b91-43d7-bef0-72c2edbe2c39" height="256" />
 
-## Misc
+## Misc.
 
 Just less important things that I may not have the source code for anymore. Screenshots without code aren't great proof of skill, but I wanted have show these at least somewhere.
 
