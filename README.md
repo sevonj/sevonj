@@ -7,11 +7,12 @@ Some projects I have contributed (code) to:
 <details>
 <summary>list</summary>
 
-- https://github.com/sinshu/rustysynth
-- https://github.com/Xyphyn/photon/
-- https://github.com/zyrouge/symphony
-- https://github.com/RetroMusicPlayer/RetroMusicPlayer
-- https://github.com/lainsce/countdown
+- [RustySynth](https://github.com/sinshu/rustysynth) - A MIDI / SoundFont library written in rust
+- [Photon](https://github.com/Xyphyn/photon/ ) - Frontend for Lemmy social media platform
+- [Symphony](https://github.com/zyrouge/symphony) - Music player for Android
+- [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Music player for Android
+- [GMF2 Tools](https://github.com/TCP-23/GMF2-Tools) - Blender extension for .gm2 models from *No More Heroes* 1 and 2. Built on top of [my GMF2 parser](https://github.com/sevonj/nmh_reverse).
+- [Countdown](https://github.com/lainsce/countdown) - Event tracker for linux desktop
 
 </details>
 
