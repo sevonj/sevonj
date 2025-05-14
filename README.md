@@ -120,7 +120,7 @@ ___
 
 https://github.com/user-attachments/assets/fd19be87-8d7e-4d54-8281-6bdc93a785fe
 
-Streaming open world system. (Note: the world itself is not mine)
+Streaming open world system in Godot. (Note: the world itself is not mine)
 
 
 </details>
