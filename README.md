@@ -36,11 +36,13 @@ A command line tool for building SoundFont 2 files with a workflow that resemble
 
 ## TheftMD
 
+[➜ Go to repository](https://github.com/sevonj/theftmd)
+
 (to be renamed) A minimal-distraction markdown editor for note taking and writing.
 
 It's intended to become a spiritual successor to [ThiefMD](https://github.com/kmwallio/ThiefMD/).
 
-<img src="https://github.com/user-attachments/assets/0cbf3ec6-edc6-414c-ae0d-5cf0804e26b5" height="400" />
+<img src="https://github.com/user-attachments/assets/0cbf3ec6-edc6-414c-ae0d-5cf0804e26b5" height="400" /> ![image](https://github.com/user-attachments/assets/ca98b8e2-3a9b-4806-8fb0-f8a649a079b8)
 
 ## NESMachine
 
@@ -48,7 +50,7 @@ It's intended to become a spiritual successor to [ThiefMD](https://github.com/km
 
 A work-in-progress NES emulator.
 
-<img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" />
+<img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" /> 
 
 ## Titomachine
 
