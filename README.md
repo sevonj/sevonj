@@ -34,6 +34,22 @@ A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/
 
 A command line tool for building SoundFont 2 files with a workflow that resembles software development. Just a janky proof of concept, but it works.
 
+## TheftMD
+
+(to be renamed) A minimal-distraction markdown editor for note taking and writing.
+
+It's intended to become a spiritual successor to [ThiefMD](https://github.com/kmwallio/ThiefMD/).
+
+![image](https://github.com/user-attachments/assets/0cbf3ec6-edc6-414c-ae0d-5cf0804e26b5)
+
+## NESMachine
+
+[➜ Go to repository](https://github.com/sevonj/nesmachine)
+
+A work-in-progress NES emulator.
+
+<img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" />
+
 ## Titomachine
 
 [➜ Go to repository](https://github.com/sevonj/titomachine)
@@ -41,14 +57,6 @@ A command line tool for building SoundFont 2 files with a workflow that resemble
 A project that explores emulation and inner workings of a computer. I built this during and after the computer organization course at university. This was my first Rust program and I didn't have much experience in general, so the codebase is pretty rotten.
 
 <img src="https://github.com/user-attachments/assets/55fb1d1f-4595-44f1-98f0-c9d5140b398c" height="400" />
-
-## NESMachine
-
-[➜ Go to repository](https://github.com/sevonj/nesmachine)
-
-I ripped out the core from titomachine and replaced it with 8-bit nintendo hardware. Now being rewritten from scratch.
-
-<img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" />
 
 ## yykaakoo-lemmy
 
