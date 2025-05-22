@@ -40,7 +40,7 @@ A command line tool for building SoundFont 2 files with a workflow that resemble
 
 It's intended to become a spiritual successor to [ThiefMD](https://github.com/kmwallio/ThiefMD/).
 
-![image](https://github.com/user-attachments/assets/0cbf3ec6-edc6-414c-ae0d-5cf0804e26b5)
+<img src="https://github.com/user-attachments/assets/0cbf3ec6-edc6-414c-ae0d-5cf0804e26b5" height="400" />
 
 ## NESMachine
 
