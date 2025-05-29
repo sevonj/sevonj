@@ -34,15 +34,15 @@ A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/
 
 A command line tool for building SoundFont 2 files with a workflow that resembles software development. Just a janky proof of concept, but it works.
 
-## TheftMD
+## Scratchmark
 
 [➜ Go to repository](https://github.com/sevonj/theftmd)
 
-(to be renamed) A minimal-distraction markdown editor for note taking and writing.
+Markdown editor.
 
-It's intended to become a spiritual successor to [ThiefMD](https://github.com/kmwallio/ThiefMD/).
+![app icon](https://github.com/sevonj/scratchmark/blob/master/resources/org.scratchmark.Scratchmark.svg)
 
-<img src="https://github.com/user-attachments/assets/0cbf3ec6-edc6-414c-ae0d-5cf0804e26b5" height="400" /> ![image](https://github.com/user-attachments/assets/ca98b8e2-3a9b-4806-8fb0-f8a649a079b8)
+<img src="https://github.com/sevonj/scratchmark/blob/master/data/screenshots/screenshot_a.png" height="400" />
 
 ## NESMachine
 
