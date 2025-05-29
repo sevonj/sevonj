@@ -40,7 +40,7 @@ A command line tool for building SoundFont 2 files with a workflow that resemble
 
 Markdown editor.
 
-![app icon](https://github.com/sevonj/scratchmark/blob/master/resources/org.scratchmark.Scratchmark.svg)
+![app icon](https://github.com/sevonj/scratchmark/blob/master/data/icons/org.scratchmark.Scratchmark.svg)
 
 <img src="https://github.com/sevonj/scratchmark/blob/master/data/screenshots/screenshot_a.png" height="400" />
 
