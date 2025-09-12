@@ -28,11 +28,7 @@ A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/
 
 <img src="https://github.com/user-attachments/assets/78205d04-1cbd-4b48-9232-fed8366624f7" height="400" />
 
-## SoundFont Compiler
-
-[➜ Go to repository](https://github.com/sevonj/soundfont-compiler)
-
-A command line tool for building SoundFont 2 files with a workflow that resembles software development. Just a janky proof of concept, but it works.
+See also: [Soundfont Compiler](https://github.com/sevonj/soundfont-compiler)
 
 ## Scratchmark
 
