@@ -66,7 +66,7 @@ A project that explores emulation and inner workings of a computer. I built this
 
 <img src="https://github.com/user-attachments/assets/d67dc9e2-8b3f-4737-965f-eb5d5756e888" height="400" />
 
-I decided to explore building a web app. Social media client.
+I decided to explore building a web app. Social media client. Very unfinished.
 
 ## WorldEdit
 
