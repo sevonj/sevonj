@@ -31,6 +31,10 @@ Markdown editor.
 
 <a href="https://github.com/sevonj/theftmd"><img alt="screenshot" src="https://github.com/sevonj/scratchmark/blob/master/data/screenshots/screenshot_a_light.png" height="400" /></a>
 
+| Lang | Stack                                                                                         | Platforms                      |
+| ---- | --------------------------------------------------------------------------------------------- | ------------------------------ |
+| Rust | GNOME: [GTK](https://gtk.org) + [libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita) | Linux (Windows, macOS maybe planned) |
+
 ## SfontPlayer
 
 [➜ Go to repository](https://github.com/sevonj/sfontplayer)
@@ -41,6 +45,10 @@ A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/
 
 See also: [Soundfont Compiler](https://github.com/sevonj/soundfont-compiler)
 
+| Lang | Stack                            | Platforms                     |
+| ---- | -------------------------------- | ----------------------------- |
+| Rust | [egui / eframe](https://egui.rs) | Linux (Windows, WASM planned) |
+
 ## NESMachine
 
 [➜ Go to repository](https://github.com/sevonj/nesmachine)
@@ -48,6 +56,10 @@ See also: [Soundfont Compiler](https://github.com/sevonj/soundfont-compiler)
 A work-in-progress NES emulator.
 
 <img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" /> 
+
+| Lang | Stack                            | Platforms   |
+| ---- | -------------------------------- | ----------- |
+| Rust | [egui / eframe](https://egui.rs) | Linux, WASM |
 
 ## Titomachine
 
@@ -57,6 +69,10 @@ A project that explores emulation and inner workings of a computer. I built this
 
 <img src="https://github.com/user-attachments/assets/55fb1d1f-4595-44f1-98f0-c9d5140b398c" height="400" />
 
+| Lang | Stack                            | Platforms |
+| ---- | -------------------------------- | --------- |
+| Rust | [egui / eframe](https://egui.rs) | Linux     |
+
 ## yykaakoo-lemmy
 
 [➜ Go to repository](https://github.com/sevonj/yykaakoo-lemmy)
@@ -65,6 +81,10 @@ A project that explores emulation and inner workings of a computer. I built this
 
 I decided to explore building a web app. Social media client. Very unfinished.
 
+| Lang       | Stack                     | Platforms |
+| ---------- | ------------------------- | --------- |
+| TypeScript | [Vue](https://vuejs.org/) | -         |
+
 ## WorldEdit
 
 [➜ Go to repository](https://github.com/sevonj/worldedit)
@@ -72,7 +92,11 @@ I decided to explore building a web app. Social media client. Very unfinished.
 An unfinished spline-based terrain generator for Godot game engine.
 
 | ![413610891-8ba23650-1efc-4699-84d3-1cddf3ff9485](https://github.com/user-attachments/assets/d31566c7-edf2-4ba6-95ca-c24fa6a25428) | ![image](https://github.com/user-attachments/assets/89ac238b-4df9-4213-aa75-366ac2b6ae3d) | ![image](https://github.com/user-attachments/assets/8150eaa1-472f-4fef-ae96-f23154909a5a) |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+
+| Lang     | Stack                                    | Platforms |
+| -------- | ---------------------------------------- | --------- |
+| GDScript | [Godot Engine](https://godotengine.org/) | -         |
 
 ## NMH Viewer
 
@@ -82,6 +106,10 @@ A 3D model viewer & archive explorer for No More Heroes games. The games use cus
 
 <img src="https://github.com/user-attachments/assets/63d274f3-109f-49a3-af27-d9b229ab766b" height="400" />
 
+| Lang | Stack                                    | Platforms |
+| ---- | ---------------------------------------- | --------- |
+| C++  | [Godot Engine](https://godotengine.org/) | -         |
+
 ## SR2 Chonker
 
 [➜ Go to repository](https://github.com/sevonj/sr2_chonker)
@@ -89,6 +117,10 @@ A 3D model viewer & archive explorer for No More Heroes games. The games use cus
 A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format with the longest pole. It's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. They got rid of the format in subsequent games.
 
 <img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" height="400" />
+
+| Lang                 | Stack                                    | Platforms |
+| -------------------- | ---------------------------------------- | --------- |
+| Rust (previously C#) | [Godot Engine](https://godotengine.org/) | -         |
 
 ## mgs4mdn-blender-import
 
@@ -106,6 +138,10 @@ I made an Android app with flutter. I was going to publish it on Play Store, but
 
 <img src="https://github.com/user-attachments/assets/87a4f14b-5b91-43d7-bef0-72c2edbe2c39" height="256" />
 
+| Lang | Stack                          | Platforms           |
+| ---- | ------------------------------ | ------------------- |
+| Dart | [Flutter](https://flutter.dev) | Android, Linux, web |
+
 ## Misc.
 
 Just less important things that I may not have the source code for anymore. Screenshots without code aren't great proof of skill, but I wanted have show these at least somewhere.
@@ -114,7 +150,7 @@ Just less important things that I may not have the source code for anymore. Scre
 <summary>show</summary>
 
 | ![moom_ai_demo](https://github.com/user-attachments/assets/186729da-aadf-4a9a-8857-9a430f336d2c) | ![unknown](https://github.com/user-attachments/assets/38a19996-d1f6-4f89-857f-d3a2d466d8d1) |
-| --- | --- |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 
 State machine AI system for two unfinished attempts at building a game.
 ___
