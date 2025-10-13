@@ -102,7 +102,7 @@ An unfinished spline-based terrain generator for Godot game engine.
 
 [➜ Go to repository](https://github.com/sevonj/nmh-godot)
 
-A 3D model viewer & archive explorer for No More Heroes games. The games use custom asset formats that I reverse-engineered myself, except for the RSL archive format.
+A 3D model viewer & archive explorer for No More Heroes games. The games use custom asset formats that I reverse-engineered myself (except for the archive format).
 
 <img src="https://github.com/user-attachments/assets/63d274f3-109f-49a3-af27-d9b229ab766b" height="400" />
 
