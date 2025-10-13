@@ -20,6 +20,17 @@ Some projects I have contributed (code) to:
 
 Also, have a look at the things I've built myself:
 
+## Scratchmark
+
+
+<a href="https://github.com/sevonj/theftmd"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/scratchmark/blob/master/data/icons/hicolor/scalable/apps/org.scratchmark.Scratchmark.svg" /></a><a href='https://flathub.org/apps/org.scratchmark.Scratchmark'><img height='64' alt='Get it on Flathub' src='https://flathub.org/api/badge?svg&locale=en'/></a>
+
+[➜ Go to repository](https://github.com/sevonj/theftmd)
+
+Markdown editor.
+
+<a href="https://github.com/sevonj/theftmd"><img alt="screenshot" src="https://github.com/sevonj/scratchmark/blob/master/data/screenshots/screenshot_a_light.png" height="400" /></a>
+
 ## SfontPlayer
 
 [➜ Go to repository](https://github.com/sevonj/sfontplayer)
@@ -29,16 +40,6 @@ A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/
 <img src="https://github.com/user-attachments/assets/78205d04-1cbd-4b48-9232-fed8366624f7" height="400" />
 
 See also: [Soundfont Compiler](https://github.com/sevonj/soundfont-compiler)
-
-## Scratchmark
-
-[➜ Go to repository](https://github.com/sevonj/theftmd)
-
-Markdown editor.
-
-![app icon](https://github.com/sevonj/scratchmark/blob/master/data/icons/org.scratchmark.Scratchmark.svg)
-
-<img src="https://github.com/sevonj/scratchmark/blob/master/data/screenshots/screenshot_a.png" height="400" />
 
 ## NESMachine
 
