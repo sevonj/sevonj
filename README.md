@@ -39,9 +39,12 @@ Markdown editor for Linux desktop.
 
 <img alt="stars" src="https://img.shields.io/github/stars/sevonj/sfontplayer">
 
+<a href="https://github.com/sevonj/sfontplayer"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/sfontplayer/blob/master/src/assets/icon_sfontplayer.svg" /></a>
+
+
 A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/sinshu/rustysynth), but uses a custom sequencer that supports features like seeking. I really need to package this.
 
-<img src="https://github.com/user-attachments/assets/78205d04-1cbd-4b48-9232-fed8366624f7" height="400" />
+<a href="https://github.com/sevonj/sfontplayer"><img src="https://github.com/user-attachments/assets/78205d04-1cbd-4b48-9232-fed8366624f7" height="400" /></a>
 
 See also: [Soundfont Compiler](https://github.com/sevonj/soundfont-compiler)
 
@@ -56,7 +59,7 @@ See also: [Soundfont Compiler](https://github.com/sevonj/soundfont-compiler)
 
 A work-in-progress NES emulator.
 
-<img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" /> 
+<a href="https://github.com/sevonj/nesmachine"><img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" /></a>
 
 | Lang | Stack                            | Platforms   |
 | ---- | -------------------------------- | ----------- |
@@ -69,7 +72,7 @@ A work-in-progress NES emulator.
 
 A project that explores emulation and inner workings of a computer. I built this during and after the computer organization course at university. This was my first Rust program and I didn't have much experience in general, so the codebase is pretty rotten.
 
-<img src="https://github.com/user-attachments/assets/55fb1d1f-4595-44f1-98f0-c9d5140b398c" height="400" />
+<a href="https://github.com/sevonj/titomachine"><img src="https://github.com/user-attachments/assets/55fb1d1f-4595-44f1-98f0-c9d5140b398c" height="400" /></a>
 
 | Lang | Stack                            | Platforms |
 | ---- | -------------------------------- | --------- |
@@ -81,7 +84,7 @@ A project that explores emulation and inner workings of a computer. I built this
 
 <img alt="stars" src="https://img.shields.io/github/stars/sevonj/yykaakoo-lemmy">
 
-<img src="https://github.com/user-attachments/assets/d67dc9e2-8b3f-4737-965f-eb5d5756e888" height="400" />
+<a href="https://github.com/sevonj/yykaakoo-lemmy"><img src="https://github.com/user-attachments/assets/d67dc9e2-8b3f-4737-965f-eb5d5756e888" height="400" /></a>
 
 I decided to explore building a web app. Social media client. Very unfinished.
 
@@ -116,7 +119,7 @@ How do games even work?
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" width="400" /> | <h3><a href="https://github.com/sevonj/sr2_chonker">SR2 Chonker</a></h3> <p>A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format with the longest pole. It's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. They got rid of the format in subsequent games.</p> <p>Rust (previously C#), [Godot Engine](https://godotengine.org/)</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/sr2_chonker"> |
 | <img src="https://github.com/user-attachments/assets/63d274f3-109f-49a3-af27-d9b229ab766b" width="400" /> | <h3><a href="https://github.com/sevonj/nmh-godot">NMH Viewer</a></h3> <p>A 3D model viewer & archive explorer for these old No More Heroes games for Nintendo Wii. The games use custom asset formats that I reverse-engineered myself (except for the RSL archive format).</p> <p>C++, [Godot Engine](https://godotengine.org/)</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/nmh-godot">                                                                                                                                                                                                                                                                                                                                                              |
-| <img src="https://github.com/user-attachments/assets/a66fde15-0b2e-461a-bba7-61be06229e06" width="400" /> | <h3><a href="https://github.com/sevonj/nmh_reverse">nmh_reverse</a></h3> <p>Scripts for processing NMH files.</p> <p>Python</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/nmh_reverse">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <img src="https://github.com/user-attachments/assets/a66fde15-0b2e-461a-bba7-61be06229e06" width="400" /> | <h3><a href="https://github.com/sevonj/nmh_reverse">nmh_reverse</a></h3> <p>Scripts for processing NMH asset files.</p> <p>Python</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/nmh_reverse">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | <img src="https://github.com/user-attachments/assets/93d25e2d-ed2d-429b-884b-97242222d1fb" width="400" /> | <h3><a href="https://github.com/sevonj/mgs4mdn-blender-import">mgs4mdn-blender-import</a></h3> <p>My first model tool. A Blender import addon for Metal Gear Solid 4 .mdn files. The game uses custom asset formats that someone else had reverse-engineered before me.</p> <p>Python, [Blender](https://blender.org/)</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/mgs4mdn-blender-import">                                                                                                                                                                                                                                                                                                                                                           |
 
 ### Misc.
@@ -142,7 +145,7 @@ https://peertube.wtf/videos/embed/sDymfoD2HkUMn8cMEXLqXQ
 
 I made an Android app with Flutter. I was going to publish it on Play Store, but gave up when I realized I had spent more time navigating developer account bureaucracy than developing the app itself. 
 
-<img src="https://github.com/user-attachments/assets/87a4f14b-5b91-43d7-bef0-72c2edbe2c39" height="256" />
+<a href="https://github.com/sevonj/visualtimer"><img src="https://github.com/user-attachments/assets/87a4f14b-5b91-43d7-bef0-72c2edbe2c39" height="256" /></a>
 
 | Lang | Stack                          | Platforms           |
 | ---- | ------------------------------ | ------------------- |
