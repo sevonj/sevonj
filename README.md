@@ -96,9 +96,11 @@ I decided to explore building a web app. Social media client. Very unfinished.
 
 ## Games
 
-I've had a few game-related projects
+I've done a few game-related projects
 
 ### [WorldEdit](https://github.com/sevonj/worldedit)
+
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/worldedit">
 
 An unfinished spline-based terrain generator for Godot game engine.
 
@@ -109,7 +111,6 @@ An unfinished spline-based terrain generator for Godot game engine.
 | -------- | ---------------------------------------- | --------- |
 | GDScript | [Godot Engine](https://godotengine.org/) | -         |
 
-<img alt="stars" src="https://img.shields.io/github/stars/sevonj/worldedit">
 
 ### [wbbshmup](https://github.com/sevonj/wbbshmup)
 
