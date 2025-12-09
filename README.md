@@ -114,10 +114,9 @@ An unfinished spline-based terrain generator for Godot game engine.
 
 ### [wbbshmup](https://github.com/sevonj/wbbshmup)
 
-Small shoot-em-up that can only be played with a [Wii Balance Board](https://en.wikipedia.org/wiki/Wii_Balance_Board). Very early and unfinished, listed here solely because because I think the balance board integration is cool.
-
-
 <img alt="stars" src="https://img.shields.io/github/stars/sevonj/wbbshmup">
+
+Small shoot-em-up that can only be played with a [Wii Balance Board](https://en.wikipedia.org/wiki/Wii_Balance_Board). Very early and unfinished, listed here solely because because I think the balance board integration is cool.
 
 <a href="https://github.com/sevonj/wbbshmup"><img src="https://github.com/user-attachments/assets/2083bab6-ec3f-43d9-b0a8-6a2f772107d7" height="200" /></a>
 
