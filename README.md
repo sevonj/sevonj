@@ -7,7 +7,7 @@ Some projects I have contributed (code) to:
 <details>
 <summary>list</summary>
 
-- [RustySynth](https://github.com/sinshu/rustysynth) - A MIDI / SoundFont library written in rust
+- [RustySynth](https://github.com/sinshu/rustysynth) - A MIDI / SoundFont library written in Rust
 - [Photon](https://github.com/Xyphyn/photon/ ) - Frontend for Lemmy social media platform
 - [Symphony](https://github.com/zyrouge/symphony) - Music player for Android
 - [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Music player for Android
@@ -20,26 +20,26 @@ Some projects I have contributed (code) to:
 
 Also, have a look at the things I've built myself:
 
-## Scratchmark
+## [Scratchmark](https://github.com/sevonj/scratchmark)
 
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/scratchmark">
 
-<a href="https://github.com/sevonj/theftmd"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/scratchmark/blob/master/data/icons/hicolor/scalable/apps/org.scratchmark.Scratchmark.svg" /></a><a href='https://flathub.org/apps/org.scratchmark.Scratchmark'><img height='64' alt='Get it on Flathub' src='https://flathub.org/api/badge?svg&locale=en'/></a>
+<a href="https://github.com/sevonj/scratchmark"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/scratchmark/blob/master/data/icons/hicolor/scalable/apps/org.scratchmark.Scratchmark.svg" /></a><a href='https://flathub.org/apps/org.scratchmark.Scratchmark'><img height='64' alt='Get it on Flathub' src='https://flathub.org/api/badge?svg&locale=en'/></a>
 
-[➜ Go to repository](https://github.com/sevonj/theftmd)
+Markdown editor for Linux desktop.
 
-Markdown editor.
+<a href="https://github.com/sevonj/scratchmark"><img alt="screenshot" src="https://github.com/sevonj/scratchmark/blob/master/data/screenshots/screenshot_a_light.png" height="400" /></a>
 
-<a href="https://github.com/sevonj/theftmd"><img alt="screenshot" src="https://github.com/sevonj/scratchmark/blob/master/data/screenshots/screenshot_a_light.png" height="400" /></a>
-
-| Lang | Stack                                                                                         | Platforms                      |
-| ---- | --------------------------------------------------------------------------------------------- | ------------------------------ |
+| Lang | Stack                                                                                         | Platforms                            |
+| ---- | --------------------------------------------------------------------------------------------- | ------------------------------------ |
 | Rust | GNOME: [GTK](https://gtk.org) + [libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita) | Linux (Windows, macOS maybe planned) |
 
-## SfontPlayer
 
-[➜ Go to repository](https://github.com/sevonj/sfontplayer)
+## [SfontPlayer](https://github.com/sevonj/sfontplayer)
 
-A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/sinshu/rustysynth), but uses a custom sequencer that supports features like seeking.
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/sfontplayer">
+
+A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/sinshu/rustysynth), but uses a custom sequencer that supports features like seeking. I really need to package this.
 
 <img src="https://github.com/user-attachments/assets/78205d04-1cbd-4b48-9232-fed8366624f7" height="400" />
 
@@ -49,9 +49,10 @@ See also: [Soundfont Compiler](https://github.com/sevonj/soundfont-compiler)
 | ---- | -------------------------------- | ----------------------------- |
 | Rust | [egui / eframe](https://egui.rs) | Linux (Windows, WASM planned) |
 
-## NESMachine
 
-[➜ Go to repository](https://github.com/sevonj/nesmachine)
+## [NESMachine](https://github.com/sevonj/nesmachine)
+
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/nesmachine">
 
 A work-in-progress NES emulator.
 
@@ -61,9 +62,10 @@ A work-in-progress NES emulator.
 | ---- | -------------------------------- | ----------- |
 | Rust | [egui / eframe](https://egui.rs) | Linux, WASM |
 
-## Titomachine
 
-[➜ Go to repository](https://github.com/sevonj/titomachine)
+## [Titomachine](https://github.com/sevonj/titomachine)
+
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/titomachine">
 
 A project that explores emulation and inner workings of a computer. I built this during and after the computer organization course at university. This was my first Rust program and I didn't have much experience in general, so the codebase is pretty rotten.
 
@@ -73,9 +75,11 @@ A project that explores emulation and inner workings of a computer. I built this
 | ---- | -------------------------------- | --------- |
 | Rust | [egui / eframe](https://egui.rs) | Linux     |
 
-## yykaakoo-lemmy
 
-[➜ Go to repository](https://github.com/sevonj/yykaakoo-lemmy)
+
+## [yykaakoo-lemmy](https://github.com/sevonj/yykaakoo-lemmy)
+
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/yykaakoo-lemmy">
 
 <img src="https://github.com/user-attachments/assets/d67dc9e2-8b3f-4737-965f-eb5d5756e888" height="400" />
 
@@ -85,9 +89,13 @@ I decided to explore building a web app. Social media client. Very unfinished.
 | ---------- | ------------------------- | --------- |
 | TypeScript | [Vue](https://vuejs.org/) | -         |
 
-## WorldEdit
 
-[➜ Go to repository](https://github.com/sevonj/worldedit)
+
+## Games
+
+I've had a few game-related projects
+
+### [WorldEdit](https://github.com/sevonj/worldedit)
 
 An unfinished spline-based terrain generator for Godot game engine.
 
@@ -98,73 +106,44 @@ An unfinished spline-based terrain generator for Godot game engine.
 | -------- | ---------------------------------------- | --------- |
 | GDScript | [Godot Engine](https://godotengine.org/) | -         |
 
-## NMH Viewer
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/worldedit">
 
-[➜ Go to repository](https://github.com/sevonj/nmh-godot)
+### Mods
 
-A 3D model viewer & archive explorer for No More Heroes games. The games use custom asset formats that I reverse-engineered myself (except for the archive format).
+How do games even work?
 
-<img src="https://github.com/user-attachments/assets/63d274f3-109f-49a3-af27-d9b229ab766b" height="400" />
+| <div width="400px">Screenshot</div>                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" width="400" /> | <h3><a href="https://github.com/sevonj/sr2_chonker">SR2 Chonker</a></h3> <p>A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format with the longest pole. It's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. They got rid of the format in subsequent games.</p> <p>Rust (previously C#), [Godot Engine](https://godotengine.org/)</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/sr2_chonker"> |
+| <img src="https://github.com/user-attachments/assets/63d274f3-109f-49a3-af27-d9b229ab766b" width="400" /> | <h3><a href="https://github.com/sevonj/nmh-godot">NMH Viewer</a></h3> <p>A 3D model viewer & archive explorer for these old No More Heroes games for Nintendo Wii. The games use custom asset formats that I reverse-engineered myself (except for the RSL archive format).</p> <p>C++, [Godot Engine](https://godotengine.org/)</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/nmh-godot">                                                                                                                                                                                                                                                                                                                                                              |
+| <img src="https://github.com/user-attachments/assets/a66fde15-0b2e-461a-bba7-61be06229e06" width="400" /> | <h3><a href="https://github.com/sevonj/nmh_reverse">nmh_reverse</a></h3> <p>Scripts for processing NMH files.</p> <p>Python</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/nmh_reverse">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <img src="https://github.com/user-attachments/assets/93d25e2d-ed2d-429b-884b-97242222d1fb" width="400" /> | <h3><a href="https://github.com/sevonj/mgs4mdn-blender-import">mgs4mdn-blender-import</a></h3> <p>My first model tool. A Blender import addon for Metal Gear Solid 4 .mdn files. The game uses custom asset formats that someone else had reverse-engineered before me.</p> <p>Python, [Blender](https://blender.org/)</p> <img alt="stars" src="https://img.shields.io/github/stars/sevonj/mgs4mdn-blender-import">                                                                                                                                                                                                                                                                                                                                                           |
 
-| Lang | Stack                                    | Platforms |
-| ---- | ---------------------------------------- | --------- |
-| C++  | [Godot Engine](https://godotengine.org/) | -         |
+### Misc.
 
-## SR2 Chonker
+Just less important things that I may not have the source code for anymore.
 
-[➜ Go to repository](https://github.com/sevonj/sr2_chonker)
+|                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>moom_ai_demo.png<img src="https://github.com/user-attachments/assets/186729da-aadf-4a9a-8857-9a430f336d2c" height="200" /></p><p>some old project I barely remember<img src="https://github.com/user-attachments/assets/38a19996-d1f6-4f89-857f-d3a2d466d8d1" height="200" /></p> | State machine AI system for two unfinished attempts at building a game.                                                                                                                                                                                                                                           |
+| https://github.com/user-attachments/assets/97b84145-440b-446f-bb0d-8186cdd1704a                                                                                                                                                                                                      | Weekend project: Sims AI ➜ https://github.com/sevonj/life                                                                                                                                                                                                                                                         |
+| https://github.com/user-attachments/assets/fd19be87-8d7e-4d54-8281-6bdc93a785fe                                                                                                                                                                                                      | One-day project: Streaming open world system in Godot. Orange: Unloaded chunk. Green: Loaded chunk. Yellow: Loaded, but candidate for being dropped if a new chunk is loaded. It's not very smart or polished; for example, unloading should prioritize chunks in the opposite direction of the to-be-loaded one. |
+| https://peertube.wtf/w/sDymfoD2HkUMn8cMEXLqXQ                                                                                                                                                                                                                                        | [wbbshmup](https://github.com/sevonj/wbbshump) is a small shoot-em-up that can only be played with a [Wii Balance Board](https://en.wikipedia.org/wiki/Wii_Balance_Board). Very early and unfinished, listed here solely because of the balance board integration.                                                |
 
-A chunk (open world piece) viewer for Saints Row 2. The game uses custom asset formats that I reverse-engineered myself. I originally got interested upon learning that Volition, the game studio, had documented some of their file formats for players mess with. Unfortunately it seemed that no one there wanted to touch the chunk format with the longest pole. It's a massive blob with dependencies in other files, loaded by a complex rube goldberg machine in multiple passes. They got rid of the format in subsequent games.
+https://github.com/user-attachments/assets/97b84145-440b-446f-bb0d-8186cdd1704a
 
-<img src="https://github.com/user-attachments/assets/80bad88b-ba3a-47f9-b73f-8af99fabc550" height="400" />
+https://github.com/user-attachments/assets/fd19be87-8d7e-4d54-8281-6bdc93a785fe
 
-| Lang                 | Stack                                    | Platforms |
-| -------------------- | ---------------------------------------- | --------- |
-| Rust (previously C#) | [Godot Engine](https://godotengine.org/) | -         |
+https://peertube.wtf/videos/embed/sDymfoD2HkUMn8cMEXLqXQ
 
-## mgs4mdn-blender-import
+## [Visual Timer](https://github.com/sevonj/visualtimer)
 
-[➜ Go to repository](https://github.com/sevonj/mgs4mdn-blender-import)
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/visualtimer">
 
-My first model tool. A Blender import addon for Metal Gear Solid 4 .mdn files. The game uses custom asset formats that someone else had reverse-engineered before me.
-
-<img src="https://github.com/user-attachments/assets/93d25e2d-ed2d-429b-884b-97242222d1fb" height="400" />
-
-## Visual Timer
-
-[➜ Go to repository](https://github.com/sevonj/visualtimer)
-
-I made an Android app with flutter. I was going to publish it on Play Store, but gave up when I realized I had spent more time navigating Google's hoops for developer accounts than developing the app itself. 
+I made an Android app with Flutter. I was going to publish it on Play Store, but gave up when I realized I had spent more time navigating developer account bureaucracy than developing the app itself. 
 
 <img src="https://github.com/user-attachments/assets/87a4f14b-5b91-43d7-bef0-72c2edbe2c39" height="256" />
 
 | Lang | Stack                          | Platforms           |
 | ---- | ------------------------------ | ------------------- |
 | Dart | [Flutter](https://flutter.dev) | Android, Linux, web |
-
-## Misc.
-
-Just less important things that I may not have the source code for anymore. Screenshots without code aren't great proof of skill, but I wanted have show these at least somewhere.
-
-<details>
-<summary>show</summary>
-
-| ![moom_ai_demo](https://github.com/user-attachments/assets/186729da-aadf-4a9a-8857-9a430f336d2c) | ![unknown](https://github.com/user-attachments/assets/38a19996-d1f6-4f89-857f-d3a2d466d8d1) |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-
-State machine AI system for two unfinished attempts at building a game.
-___
-
-https://github.com/user-attachments/assets/97b84145-440b-446f-bb0d-8186cdd1704a
-
-Weekend project: Sims AI ➜ https://github.com/sevonj/life
-
-___
-
-https://github.com/user-attachments/assets/fd19be87-8d7e-4d54-8281-6bdc93a785fe
-
-Streaming open world system in Godot. (Note: the world itself is not mine)
-
-
-</details>
-
