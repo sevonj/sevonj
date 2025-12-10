@@ -107,9 +107,9 @@ An unfinished spline-based terrain generator for Godot game engine.
 | ![413610891-8ba23650-1efc-4699-84d3-1cddf3ff9485](https://github.com/user-attachments/assets/d31566c7-edf2-4ba6-95ca-c24fa6a25428) | ![image](https://github.com/user-attachments/assets/89ac238b-4df9-4213-aa75-366ac2b6ae3d) | ![image](https://github.com/user-attachments/assets/8150eaa1-472f-4fef-ae96-f23154909a5a) |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 
-| Lang     | Stack                                    | Platforms |
-| -------- | ---------------------------------------- | --------- |
-| GDScript | [Godot Engine](https://godotengine.org/) | -         |
+| Lang         | Stack                                    | Platforms |
+| --------     | ---------------------------------------- | --------- |
+| GDScript, C# | [Godot Engine](https://godotengine.org/) | -         |
 
 
 ### [wbbshmup](https://github.com/sevonj/wbbshmup)
