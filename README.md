@@ -23,7 +23,7 @@ Also, have a look at the things I've built myself:
 ## [Scratchmark](https://github.com/sevonj/scratchmark)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/sevonj/scratchmark)
-![Flathub Downloads](https://img.shields.io/flathub/downloads/org.scratchmark.Scratchmark?label=Downloads)
+![Flathub Downloads](https://img.shields.io/flathub/downloads/org.scratchmark.Scratchmark)
 
 <a href="https://github.com/sevonj/scratchmark"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/scratchmark/blob/master/data/icons/hicolor/scalable/apps/org.scratchmark.Scratchmark.svg" /></a><a href='https://flathub.org/apps/org.scratchmark.Scratchmark'><img height='64' alt='Get it on Flathub' src='https://flathub.org/api/badge?svg&locale=en'/></a>
 
