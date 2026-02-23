@@ -13,6 +13,7 @@ Some projects I have contributed (code) to:
 - [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Music player for Android
 - [GMF2 Tools](https://github.com/TCP-23/GMF2-Tools) - Blender extension for .gm2 models from _No More Heroes_ 1 and 2. Built on top of [my GMF2 parser](https://github.com/sevonj/nmh_reverse).
 - [Countdown](https://github.com/lainsce/countdown) - Event tracker for linux desktop
+- [ThiefMD](https://github.com/kmwallio/ThiefMD) - Markdown and screenwriting editor for Linux desktop
 
 </details>
 
