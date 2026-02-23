@@ -4,9 +4,6 @@
 
 Some projects I have contributed (code) to:
 
-<details>
-<summary>list</summary>
-
 - [RustySynth](https://github.com/sinshu/rustysynth) - SoundFont synthesizer and MIDI playback library written in Rust
 - [Photon](https://github.com/Xyphyn/photon/) - Frontend for Lemmy social media platform
 - [Symphony](https://github.com/zyrouge/symphony) - Music player for Android
@@ -14,8 +11,6 @@ Some projects I have contributed (code) to:
 - [GMF2 Tools](https://github.com/TCP-23/GMF2-Tools) - Blender extension for .gm2 models from _No More Heroes_ 1 and 2. Built on top of [my GMF2 parser](https://github.com/sevonj/nmh_reverse).
 - [Countdown](https://github.com/lainsce/countdown) - Event tracker for linux desktop
 - [ThiefMD](https://github.com/kmwallio/ThiefMD) - Markdown and screenwriting editor for Linux desktop
-
-</details>
 
 # Projects
 
