@@ -7,7 +7,7 @@ Some projects I have contributed (code) to:
 <details>
 <summary>list</summary>
 
-- [RustySynth](https://github.com/sinshu/rustysynth) - A MIDI / SoundFont library written in Rust
+- [RustySynth](https://github.com/sinshu/rustysynth) - SoundFont synthesizer and MIDI playback library written in Rust
 - [Photon](https://github.com/Xyphyn/photon/) - Frontend for Lemmy social media platform
 - [Symphony](https://github.com/zyrouge/symphony) - Music player for Android
 - [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Music player for Android
