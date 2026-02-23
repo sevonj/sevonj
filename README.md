@@ -71,6 +71,8 @@ Rust • [egui / eframe](https://egui.rs) • Linux
 
 I decided to explore building a web app. Social media client. Very unfinished.
 
+https://sevonj.github.io/yykaakoo-lemmy/
+
 TypeScript • [Vue](https://vuejs.org/)
 
 ## Games
