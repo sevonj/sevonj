@@ -61,7 +61,7 @@ Rust • [egui / eframe](https://egui.rs) • Linux, WASM
 
 A work-in-progress tool for examining the contents of PlayStation 2 memory card images. It can parse Sony's custom file system and dump the contents.
 
-<a href="https://github.com/sevonj/eightmb"><img alt="screenshot" src="https://github.com/user-attachments/assets/a5eaf5b1-ab87-43a2-b6c6-c9b7cfddc412" height="400" /></a>
+<a href="https://github.com/sevonj/eightmb"><img alt="screenshot" src="https://github.com/user-attachments/assets/e4e421d5-5380-4034-83c9-1b1dc60f6dc8" height="400" /></a>
 
 Rust • [GTK](https://gtk.org)/[libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita) • Linux
 
