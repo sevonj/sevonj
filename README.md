@@ -53,6 +53,19 @@ A work-in-progress NES emulator.
 
 Rust • [egui / eframe](https://egui.rs) • Linux, WASM
 
+## [EightMB](https://github.com/sevonj/eightmb)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/sevonj/eightmb)
+
+<a href="https://github.com/sevonj/eightmb"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/eightmb/blob/master/data/resources/icons/hicolor/scalable/apps/com.github.sevonj.eightmb.png" /></a>
+
+A work-in-progress tool for examining the contents of PlayStation 2 memory card images. It can parse Sony's custom file system and dump the contents.
+
+<a href="https://github.com/sevonj/eightmb"><img alt="screenshot" src="https://github.com/user-attachments/assets/a5eaf5b1-ab87-43a2-b6c6-c9b7cfddc412" height="400" /></a>
+
+Rust • [GTK](https://gtk.org)/[libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita) • Linux
+
+
 ## [Titomachine](https://github.com/sevonj/titomachine)
 
 <img alt="stars" src="https://img.shields.io/github/stars/sevonj/titomachine">
