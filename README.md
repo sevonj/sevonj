@@ -59,7 +59,7 @@ Rust • [egui / eframe](https://egui.rs) • Linux, WASM
 
 <a href="https://github.com/sevonj/eightmb"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/eightmb/blob/master/crates/eightmb-app/data/resources/icons/hicolor/scalable/apps/com.github.sevonj.eightmb.png" /></a>
 
-A work-in-progress tool for examining PlayStation 2 memory card images. It can parse Sony's custom file system, kind-of show the 3D save icons, and dump the card contents.
+A work-in-progress tool for examining PlayStation 2 memory card images. It can parse Sony's custom file system, kind-of show 3D save icons, and dump the card contents.
 
 <a href="https://github.com/sevonj/eightmb"><img alt="screenshot" src="https://github.com/sevonj/eightmb/blob/master/crates/eightmb-app/data/screenshots/screenshot.png" height="400" /></a>
 
