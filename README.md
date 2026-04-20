@@ -35,7 +35,7 @@ Rust • [GTK](https://gtk.org)/[libadwaita](https://gnome.pages.gitlab.gnome.or
 
 <a href="https://github.com/sevonj/sfontplayer"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/sfontplayer/blob/master/src/assets/icon_sfontplayer.svg" /></a>
 
-A MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/sinshu/rustysynth), but uses a custom sequencer that supports features like seeking. I really need to package this.
+MIDI / SoundFont player. It's built on top of [RustySynth](https://github.com/sinshu/rustysynth), but uses a custom sequencer that supports features like seeking. I really need to package this.
 
 <a href="https://github.com/sevonj/sfontplayer"><img src="https://github.com/user-attachments/assets/78205d04-1cbd-4b48-9232-fed8366624f7" height="400" /></a>
 
@@ -43,11 +43,21 @@ See also: [Soundfont Compiler](https://github.com/sevonj/soundfont-compiler)
 
 Rust • [egui / eframe](https://egui.rs) • Linux (Windows, WASM planned)
 
+## [Midi Flipper](https://github.com/sevonj/midi-flipper)
+
+<img alt="stars" src="https://img.shields.io/github/stars/sevonj/midi-flipper">
+
+Midi file manipulation tool.
+
+<a href="https://github.com/sevonj/midi-flipper"><img height="400" alt="image" src="https://github.com/user-attachments/assets/3f456d49-080d-413b-8158-1f4ade138f9b" /></a>
+
+Rust • [egui / eframe](https://egui.rs) • Linux, Windows
+
 ## [NESMachine](https://github.com/sevonj/nesmachine)
 
 <img alt="stars" src="https://img.shields.io/github/stars/sevonj/nesmachine">
 
-A work-in-progress NES emulator.
+Work-in-progress NES emulator.
 
 <a href="https://github.com/sevonj/nesmachine"><img src="https://github.com/user-attachments/assets/e577871b-845c-46b1-a51f-14eea75f3832" height="400" /></a>
 
@@ -59,12 +69,11 @@ Rust • [egui / eframe](https://egui.rs) • Linux, WASM
 
 <a href="https://github.com/sevonj/eightmb"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/eightmb/blob/master/crates/eightmb-app/data/resources/icons/hicolor/scalable/apps/com.github.sevonj.eightmb.png" /></a>
 
-A work-in-progress tool for examining PlayStation 2 memory card images. It can parse Sony's custom file system, kind-of show 3D save icons, and dump the card contents.
+Work-in-progress tool for examining PlayStation 2 memory card images. It can parse Sony's custom file system, kind-of show 3D save icons, and dump the card contents.
 
 <a href="https://github.com/sevonj/eightmb"><img alt="screenshot" src="https://github.com/sevonj/eightmb/blob/master/crates/eightmb-app/data/screenshots/screenshot.png" height="400" /></a>
 
 Rust • [GTK](https://gtk.org)/[libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita) • Linux
-
 
 ## [Titomachine](https://github.com/sevonj/titomachine)
 
