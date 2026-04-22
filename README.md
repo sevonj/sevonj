@@ -49,7 +49,7 @@ Rust • [egui / eframe](https://egui.rs) • Linux (Windows, WASM planned)
 
 Midi file manipulation tool.
 
-<a href="https://github.com/sevonj/midi-flipper"><img height="400" alt="image" src="https://github.com/user-attachments/assets/3f456d49-080d-413b-8158-1f4ade138f9b" /></a>
+<a href="https://github.com/sevonj/midi-flipper"><img height="400" alt="image" src="https://github.com/sevonj/midi-flipper/blob/master/assets/screenshots/screenshot.png" /></a>
 
 Rust • [egui / eframe](https://egui.rs) • Linux, Windows
 
