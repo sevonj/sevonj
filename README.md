@@ -47,6 +47,8 @@ Rust • [egui / eframe](https://egui.rs) • Linux (Windows, WASM planned)
 
 <img alt="stars" src="https://img.shields.io/github/stars/sevonj/midi-flipper">
 
+<a href="https://github.com/sevonj/midi-flipper"><img alt="app icon" style="float: left;" height="64px" src="https://github.com/sevonj/midi-flipper/blob/master/assets/icon_midiflipper.svg" /></a>
+
 Midi file manipulation tool.
 
 <a href="https://github.com/sevonj/midi-flipper"><img height="400" alt="image" src="https://github.com/sevonj/midi-flipper/blob/master/assets/screenshots/screenshot.png" /></a>
